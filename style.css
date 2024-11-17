@@ -88,6 +88,22 @@
         margin: 20px 0 0 60px;
     }
  }
+ @media (max-width:417px) {
+    .changeSymbols{
+     margin: 0 0 10px 120px;
+    }
+    .blockNavigator{
+        margin: 0 0 0 -85px;
+    }
+    .answerKey{
+        margin: 20px 0 0 50px;
+    }
+    .loader {
+
+        left: 47%;
+
+    }
+ }
 .loader:before {
     content: "";
     position: absolute;
